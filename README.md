@@ -1,7 +1,7 @@
-<h1> Hewwo, I'm Minghui!</h1>
+<h1> Hewwo, Minghui there <img src='hi.gif' width=90 height=90 /></h1>
 
-### About Me:
-- 👩🏻‍🎓 Studying computer science at Northeastern Univeristy
+### <img src= 'star.gif' /> ABOUT ME
+- 📖 Studying computer science at Northeastern Univeristy
 
 - 👩🏻‍💻 Currently working on **web and mobile application development**
 
@@ -9,9 +9,9 @@
 
 - 🎨 Dual background in CS and Accountancy
 
-- 📧 How to reach me： **minghuicareer@gmail.com**
+- 📧 How to reach me: **minghuicareer@gmail.com**
 
-### 💻 Tech Stack:
+### <img src= 'star.gif' /> TECH STACK
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -38,18 +38,21 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 GitHub Stats:
+### <img src= 'star.gif' /> GITHUB STATS
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1hs0ym1nas&show_icons=true&locale=en&layout=compact" alt="1hs0ym1nas" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1hs0ym1nas&" alt="1hs0ym1nas" /></p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1hs0ym1nas&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=1hs0ym1nas&theme=transparent&hide_border=true"/></a> -->
 
-### Let's Connect:
-Life is beautiful, make more friends >3
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minghui-xu-monica/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minghuicareer@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/1hs0ym1nas)
+###  <img src= 'walk.gif' width=45 height=40 />  LET'S CONNECT!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1hs0ym1nas&label=Profile%20views&color=0e75b6&style=flat" alt="1hs0ym1nas" /> </p>
+[![LinkedIn](https://img.shields.io/badge/-my_linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minghui-xu-monica/)
+[![Discord](https://img.shields.io/badge/-my_Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/1hs0ym1nas)
+[![Gmail](https://img.shields.io/badge/-Contact_via_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=df6da9)](mailto:minghuicareer@gmail.com)
+<img align='right' src= 'bye.gif' width=105 height=100 />
+<p> Life is beautiful, make more friends <img src= 'heartkuromi.png' width=40 height=40 /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=1hs0ym1nas&label=visitors&color=f988be&style=flat" alt="1hs0ym1nas" />
+</p>
