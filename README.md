@@ -7,7 +7,7 @@
 
 - 🤝 Actively seeking opportunities to work as a **software engineer intern**
 
-- 🎨 Dual background in CS and Accountancy
+- 🎨 Dual background in CS and Accountancy/Business Management
 
 - 📧 How to reach me: **minghuicareer@gmail.com**
 
