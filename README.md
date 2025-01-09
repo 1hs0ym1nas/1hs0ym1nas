@@ -5,7 +5,7 @@
 
 - 👩🏻‍💻 Currently working on **web and mobile application development**
 
-- 🤝 Actively seeking opportunities to work as a **software engineer intern**
+- 🤝 Actively seeking opportunities to work as a **full-stack software engineer**
 
 - 🎨 Dual background in CS and Accountancy/Business Management
 
@@ -52,10 +52,9 @@
 ###  <img src= 'walk.gif' width=45 height=40 />  LET'S CONNECT!
 
 [![LinkedIn](https://img.shields.io/badge/-my_linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minghui-xu-monica/)
-[![Discord](https://img.shields.io/badge/-my_Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/1hs0ym1nas)
-[![Gmail](https://img.shields.io/badge/-Contact_via_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=df6da9)](mailto:minghuicareer@gmail.com)
+[![Discord](https://img.shields.io/badge/-my_Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@1hs0ym1nas)
+[![Gmail](https://img.shields.io/badge/-Contact_via_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=df6da9)](https://mailto:minghuicareer@gmail.com/)
 <img align='right' src= 'bye.gif' width=105 height=100 />
-<p> Life is beautiful, make more friends <img src= 'heartkuromi.png' width=40 height=40 /> </p>
-
+<p> LIFE IS BEAUTIFUL MAKE MORE FRIENDS 🫶 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=1hs0ym1nas&label=visitors&color=f988be&style=flat" alt="1hs0ym1nas" />
 </p>
